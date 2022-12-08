@@ -1,9 +1,10 @@
 {
   "short_name": "Twittor",
   "name": "Twittor para heroes",
+  "description": "Ejemplo del curso PWA",
   "start_url": "index.html",
-  "background_color": "#674EA7",
-  "theme_color": "#674EA7",
+  "background_color": "#3498db",
+  "theme_color": "#3498db",
   "icons": [
     {
       "src": "img/icons/icon-72x72.png",
