@@ -3,7 +3,7 @@
   "name": "Twittor para heroes",
   "description": "Ejemplo del curso PWA",
   "start_url": "index.html",
-  "background_color": "#",
+  "background_color": "#3498db",
   "theme_color": "#3498db",
   "icons": [
     {
